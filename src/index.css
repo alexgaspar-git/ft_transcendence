@@ -19,6 +19,7 @@ ul, ol {
 /* Remove default styles for links */
 a {
   text-decoration: none;
+  width: 100%;
 }
 
 /* Reset some HTML5 elements to display consistently */

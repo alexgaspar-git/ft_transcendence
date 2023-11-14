@@ -1,0 +1,22 @@
+
+
+.left-profile {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+}
+
+.left-profile * {
+    margin-top: 4%;
+}
+
+.left-profile img {
+    width: 60%;
+    border-radius: 50%;
+}
+
+.profile-username {
+    font-size: 3vw;
+}

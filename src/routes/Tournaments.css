@@ -1,0 +1,70 @@
+.tourney-wrapper {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.tourney-create-button {
+    display: block;
+    margin: 10px 0;
+}
+
+.tourney-accordion {
+    width: 80%;
+    margin-top: 5%;
+}
+
+.tourney-accordion-header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.2rem;
+}
+
+.tourney-accordion-header * {
+    margin: 0 2%;
+}
+
+.tourney-accordion-body {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.tourney-accordion-body * {
+    margin: 1% 0;
+}
+
+.tourney-accordion-body-players {
+    display: flex;
+}
+
+.tourney-accordion-body-players span {
+    margin-right: 1%;
+}
+
+.create-tournament-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+}
+
+.create-tournament-inputs {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.create-tournament-inputs * {
+    margin: 2% 0;
+}
+
+.tournament-form-wrapper {
+    display: flex;
+    flex-direction: column;
+}
